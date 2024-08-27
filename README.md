@@ -1,32 +1,27 @@
-<p align="center"> <h1 align="center"> Hi, I am Naman Jain <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<p align="center"> <h1 align="center"> Hi, I am Puneet Dhankar <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1> </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/nasu1708/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://www.hackerrank.com/profile/nasuchacha1708"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-<a href="https://www.instagram.com/self.nasu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="mailto:namanjain2002qw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/puneet-dhankar-097206288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<!-- <a href="https://www.hackerrank.com/profile/nasuchacha1708"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a> -->
+<!-- <a href="https://www.instagram.com/self.nasu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> -->
+<!-- <a href="mailto:namanjain2002qw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> -->
 </p>
 
 
-* 🔍 AI/ML enthusiast, skilled in Python, TensorFlow, and Scikit-learn. Currently mastering AI/ML while pursuing MCA from [SPSU, Udaipur](https://www.spsu.ac.in).
+* 🔍 AI/ML enthusiast, skilled in Python, TensorFlow, and Scikit-learn. Currently mastering AI/ML while pursuing Btech CSE from [SPSU, Udaipur](https://www.spsu.ac.in).
 
-* 💻 Proficient web developer with expertise in HTML5, CSS, Bootstrap, JS, ReactJS, Firebase, NodeJS, Django, MySQL, and MongoDB. Check out my repositories for projects.
-
-* 📚 Curated repositories on DSA using Python, documenting my learning journey.
+* 💻 Proficient developer with expertise in Python, Google Colab, C, C++, and Firebase. Check out my repositories for projects.
 
 * 🐍 Python lover, captivated by its versatility.
-
-* 📝 Published author with two abstracts in "The Essence (ISSN 2249-0132)" presented at the International Research Convention 2024: "Deficiency of AI in Mathematics" and "Decoding School Dropout Rate Factors Using Machine Learning Models."
-
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=Self-nasu&show_icons=true&theme=dark&locale=en&hide_border=true" /></td>
-<!--     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Self-nasu&theme=dark&hide_border=true&layout=compact"></td> -->
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=self-Puneet&show_icons=true&theme=dark&locale=en&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=self-Puneet&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
 
