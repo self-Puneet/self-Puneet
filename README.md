@@ -4,17 +4,18 @@
          width="45" /></h1> </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/puneet-dhankar-097206288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<!-- <a href="https://www.hackerrank.com/profile/nasuchacha1708"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a> -->
+<a href="https://www.hackerrank.com/profile/puneetd2005"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 <!-- <a href="https://www.instagram.com/self.nasu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> -->
 <!-- <a href="mailto:namanjain2002qw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> -->
 </p>
-
 
 * 🔍 AI/ML enthusiast, skilled in Python, TensorFlow, and Scikit-learn. Currently mastering AI/ML while pursuing Btech CSE from [SPSU, Udaipur](https://www.spsu.ac.in).
 
 * 💻 Proficient developer with expertise in Python, Google Colab, C, C++, and Firebase. Check out my repositories for projects.
 
 * 🐍 Python lover, captivated by its versatility.
+
+* 📱 Exploring Android app development using Flutter & Dart.
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
