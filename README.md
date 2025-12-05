@@ -9,14 +9,29 @@
 <!-- <a href="mailto:namanjain2002qw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> -->
 </p>
 
-* 🔍 AI/ML enthusiast, skilled in Python, TensorFlow, and Scikit-learn. Currently mastering AI/ML while pursuing Btech CSE from [SPSU, Udaipur](https://www.spsu.ac.in).
+* 📱 Diving deep into Android app development using Flutter, following a structured MVC architecture combined with modern state-management and controller-driven workflows.
+* 🧩 Strong foundation in modular programming and object-oriented programming (OOP) with hands-on experience in Dart, C++, and Python.
+* 🌐 Practical experience in API development using Flask (Python) and seamlessly integrating APIs into frontend applications.
+* 🗄️ Strong understanding of RDBMS, with experience in relational schema designing. Also worked with FirestoreDB and Firebase Real Time Database. 
+* 🔍 AI/ML enthusiast, skilled in Python, and Scikit-learn and worked with Tensorflow. Currently mastering AI/ML while pursuing Btech CSE from [SPSU, Udaipur](https://www.spsu.ac.in).
+* 💻 Proficient developer with expertise in Python, Firebase. Worked with Azure VM Hosting, RDBMS.
 
-* 💻 Proficient developer with expertise in Python, Google Colab, C, C++, and Firebase. Check out my repositories for projects.
+> **🚀 Tech Stack:**  
+> 
+> ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=coffeescript&logoColor=white)
 
-* 🐍 Python lover, captivated by its versatility.
-
-* 📱 Exploring Android app development using Flutter & Dart.
-
+<!--
 ***
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
@@ -25,7 +40,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=self-Puneet&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
-
+-->
 <!-- ***
 **♨️ &nbsp;DSA Analytics**
 
