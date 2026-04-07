@@ -17,7 +17,12 @@
 * 💻 Proficient developer with expertise in Python, Firebase. Worked with Azure VM Hosting, RDBMS.
 
 > **🚀 Tech Stack:**  
-> 
+
+[![My AndroidSkills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,react,boom,java,spring,mysql,mongodb,azure,aws,cpp,python,tensorflow)](https://skillicons.dev)
+
+<!--,My Other](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,azure,aws,cpp,python,tensorflow)](https://skillicons.dev)
+
+<!--
 > ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -30,7 +35,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=coffeescript&logoColor=white)
-
+<!--
 <!--
 ***
 **⚙️ &nbsp;GitHub Analytics**
